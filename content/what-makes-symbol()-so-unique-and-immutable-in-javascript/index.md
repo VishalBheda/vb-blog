@@ -1,9 +1,9 @@
 ---
 title: "What makes Symbol(👑) so unique and immutable in JavaScript? 🐒"
 description: "👔First meeting with the newly created data type \"Symbol\"."
-date: "2019-07-31T17:22:31.147Z"
+date: "2019-07-31T18:14:11.937Z"
 categories: []
-published: false
+published: true
 ---
 
   

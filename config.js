@@ -9,7 +9,7 @@ module.exports = {
   // a longer bio showing on the landing page of the blog
   bio: `Building paradise using code as a magical spell.`,
   author: 'Vishal Bheda',
-  githubUrl: 'https://github.com/VishalBheda/blogtest',
+  githubUrl: '{{ githubURL }}',
   // replace this by the url where your website will be published
   siteUrl: 'http://localhost:8000',
   social: {
