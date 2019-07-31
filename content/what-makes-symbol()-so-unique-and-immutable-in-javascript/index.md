@@ -1,0 +1,17 @@
+---
+title: "What makes Symbol(👑) so unique and immutable in JavaScript? 🐒"
+description: "👔First meeting with the newly created data type \"Symbol\"."
+date: "2019-07-31T17:22:31.147Z"
+categories: []
+published: false
+---
+
+  
+
+### Introduction
+
+It was a great release of ES6/ES2015. There are so many great features included one of them is Symbol(). The symbol is popular for its uniqueness and immutability.
+
+So what is a Symbol?
+
+according to [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Symbol) Symbol is newly created primitive data types like other Boolean, String, and other Symbol
